@@ -1,5 +1,4 @@
 /* https://crypto.stanford.edu/pbc/notes/pi/code.html */
-// Test
 
 #include <stdio.h>
 
