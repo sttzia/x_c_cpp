@@ -1,9 +1,8 @@
-//// https : //crypto.stanford.edu/pbc/notes/pi/code.html
+// https : //crypto.stanford.edu/pbc/notes/pi/code.html
 
 #include <stdio.h>
 
-        int
-        main()
+int main()
 {
     int r[2800 + 1];
     int i, k;
